@@ -1,0 +1,15 @@
+O'Neal, Shaquille;26517858;10
+Bryant, Kobe;13498000;6
+Payton, Gary;4917000;2
+Fox, Rick;4550000;6
+George, Devean;4545000;4
+Fisher, Derek;3000000;7
+Malone, Karl;1500000;2
+Medvedenko, Stanislav;1500000;2
+Rush, Kareem;1096000;4
+Russell, Bryon;1070000;1
+Grant, Horace;1070000;1
+Cook, Brian;752000;4
+Sampson, Jamal;563679;1
+Pargo, Jannero;563679;2
+Walton, Luke;366931;2
